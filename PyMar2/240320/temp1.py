@@ -1,2 +1,3 @@
-print('hello world')
-print('!hello!')
+def multiply(a, b):
+  a * b
+return multiply(a, b)
