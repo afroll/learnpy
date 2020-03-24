@@ -13,4 +13,4 @@ else:
         print('x2:  %.2f'%(x2))
     elif D == 0:
          x1 = -B / (2 * A)
-print('x: '(x))
+# print('x: '(x))
