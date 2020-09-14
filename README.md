@@ -1,2 +1,2 @@
-# My first learn Python works
-My first learn Python works
+# My first learn Python
+My first learn Python
