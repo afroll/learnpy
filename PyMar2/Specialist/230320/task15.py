@@ -1,0 +1,8 @@
+title = ['LOTR', 'HP']
+autor = ['PJ','JR']
+year = ['2001', '2002']
+actors = [['Act1, Act2, Act3'], ['Act1_1, Act2_1, Act3_1']]        
+rating = [4.8,4.78]
+duration = [150,140]
+is18 = [True, False]
+localisation = [None, True]
